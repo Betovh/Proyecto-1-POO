@@ -1,0 +1,3 @@
+C:/Users/PC JOSE/Desktop/Proyecto-1-POO-master/out/build/x64-Debug/CMakeFiles/Proyecto_1_POO.dir
+C:/Users/PC JOSE/Desktop/Proyecto-1-POO-master/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/PC JOSE/Desktop/Proyecto-1-POO-master/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
