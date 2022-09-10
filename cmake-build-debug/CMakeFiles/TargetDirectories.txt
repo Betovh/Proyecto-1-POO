@@ -1,3 +1,0 @@
-G:/CLION/Proyecto 1 POO/cmake-build-debug/CMakeFiles/Proyecto_1_POO.dir
-G:/CLION/Proyecto 1 POO/cmake-build-debug/CMakeFiles/edit_cache.dir
-G:/CLION/Proyecto 1 POO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
